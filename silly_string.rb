@@ -1,10 +1,10 @@
-your_favorite_word = "Aspen"
+your_favorite_word = "begin"
 
 puts "My favorite word is" + your_favorite_word
 
 # Challenge 2: Capitalize every letter in your_favorite_word using a built in Ruby method
 
-favorite_word_in_all_caps = Aspen.upcase 
+favorite_word_in_all_caps = begin.upcase 
 
 puts "MY FAVORITE WORD IS #{favorite_word_in_all_caps}"
 
